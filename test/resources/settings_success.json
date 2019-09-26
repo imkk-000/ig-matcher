@@ -1,0 +1,6 @@
+{
+    "cookies_path": "cookies.txt",
+    "intagram_host": "https://www.instagram.com",
+    "instagram_path": "/graphql/query/",
+    "instagram_query_hash": "qwertyuiop1234567890asdfghjkl123"
+}
